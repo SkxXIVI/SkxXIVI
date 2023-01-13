@@ -2,7 +2,3 @@
 
 [Check That](https://www.conservapedia.com/Best_arguments_against_homosexuality)   
 
-
-[Krx](https://github.com/Kash-001)
-
-[Skx](https://github.com/SkxXIVI)
