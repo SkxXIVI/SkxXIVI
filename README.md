@@ -2,10 +2,10 @@
 
 [Check That](https://www.conservapedia.com/Best_arguments_against_homosexuality)   
 
-> Skx
+Skx
 
-> Work with [Krx](https://github.com/Kash-001)
+Work with [Krx](https://github.com/Kash-001)
 
-> i **dont** like lgbt
+i **dont** like lgbt
 
-> Python > Java
+Python > Java
