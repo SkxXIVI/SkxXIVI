@@ -4,4 +4,5 @@
 
 
 [Krx](https://github.com/Kash-001)
-[Skx] (https://githun.com/SkxXIVI)
+
+[Skx](https://github.com/SkxXIVI)
