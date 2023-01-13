@@ -1,1 +1,1 @@
-![Snake animation]((https://github.com/SkxXIVI))
+![Snake animation](https://github.com/SkxXIVI)
