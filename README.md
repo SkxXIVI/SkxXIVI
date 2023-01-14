@@ -2,3 +2,10 @@
 
 i dont like [lgbt](https://www.conservapedia.com/Best_arguments_against_homosexuality)   
 
+## About
+
+```
+> Skx 🦇
+> Python 
+> Work with krx
+```
